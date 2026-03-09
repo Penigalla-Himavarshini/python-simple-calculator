@@ -8,4 +8,4 @@ This is a beginner Python project that performs basic arithmetic operations.
 
 ## How to Run
 Run the program using:
-python-simple-calculator.py
+calculator.py
